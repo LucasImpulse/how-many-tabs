@@ -31,6 +31,7 @@ pip install pywinauto psutil
 
 ## Usage
 
+**tabber.py**
 1.  Save the file.
 2.  Open the file in a text editor.
 3.  Navigate to the `if __name__ == "__main__":` block at the bottom of the script.
@@ -47,7 +48,16 @@ pip install pywinauto psutil
     ```
 5.  Run the script from your terminal focused on the directory containing the file:
     ```bash
-    python tab_counter.py
+    python tabber.py
+    ```
+
+**omnitabber.py**
+1.  Save the file.
+2.  Open the file in a text editor.
+3.  Check if `browsers_to_check` has all the executables you want to check.
+4.  Run the script from your terminal focused on the directory containing the file:
+    ```bash
+    python omnitabber.py
     ```
 
 ### Expected Output
