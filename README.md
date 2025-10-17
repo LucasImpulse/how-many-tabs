@@ -78,6 +78,8 @@ The script will print the total number of tabs found.
       - Chromium: 3 tabs
     ```
 
+omnitabber.py will do every executable in a batch operation, and the output is much the same.
+
 ---
 
 ## Why
